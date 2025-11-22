@@ -16,24 +16,6 @@ This project implements a complete logistic regression classifier from scratch u
 - Scikit-learn (for comparison)
 - Jupyter Notebook
 
-## Installation
-
-1. Clone the repository:
-`git clone https://github.com/yourusername/ml-building-logistic-regression.git`
-
-2. Navigate to the project directory:
-`cd logistic-regression`
-
-3. Create a virtual environment (recommended):
-`python -m venv logistic_env`
-`source logistic_env/bin/activate  # On Windows: logistic_env\Scripts\activate`
-
-4. Install required dependencies:
-`pip install numpy pandas scikit-learn jupyter`
-
-5. Ensure you have the dataset:
-Place airbnbData_train.csv in a `data/` folder within the project directory or modify the file path in the notebook accordingly
-
 ## How to Use
 
 Option 1: Run the Jupyter Notebook
