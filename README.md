@@ -19,7 +19,7 @@ This project implements a complete logistic regression classifier from scratch u
 ## Installation
 
 1. Clone the repository:
-`git clone https://github.com/yourusername/logistic-regression.git`
+`git clone https://github.com/yourusername/ml-building-logistic-regression.git`
 
 2. Navigate to the project directory:
 `cd logistic-regression`
