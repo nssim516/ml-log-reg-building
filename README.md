@@ -1,4 +1,4 @@
-# Logistic Regression From Scratch
+# Machine Learning Project: Logistic Regression From Scratch
 
 This project implements a complete logistic regression classifier from scratch using pure Python and NumPy. The model is trained and validated on Airbnb host data to predict "superhost" status. 
 
